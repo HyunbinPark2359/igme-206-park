@@ -1,0 +1,14 @@
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\obj\Debug\net8.0\PE_StatementsExpressions_Park.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\obj\Debug\net8.0\PE_StatementsExpressions_Park.AssemblyInfoInputs.cache
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\obj\Debug\net8.0\PE_StatementsExpressions_Park.AssemblyInfo.cs
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\obj\Debug\net8.0\PE_StatementsExpressions_Park.csproj.CoreCompileInputs.cache
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\bin\Debug\net8.0\PE_StatementsExpressions_Park.exe
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\bin\Debug\net8.0\PE_StatementsExpressions_Park.deps.json
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\bin\Debug\net8.0\PE_StatementsExpressions_Park.runtimeconfig.json
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\bin\Debug\net8.0\PE_StatementsExpressions_Park.dll
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\bin\Debug\net8.0\PE_StatementsExpressions_Park.pdb
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\obj\Debug\net8.0\PE_StatementsExpressions_Park.dll
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\obj\Debug\net8.0\refint\PE_StatementsExpressions_Park.dll
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\obj\Debug\net8.0\PE_StatementsExpressions_Park.pdb
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\obj\Debug\net8.0\PE_StatementsExpressions_Park.genruntimeconfig.cache
+D:\Profiles\hp2359\source\repos\PE_StatementsExpressions_Park\PE_StatementsExpressions_Park\obj\Debug\net8.0\ref\PE_StatementsExpressions_Park.dll

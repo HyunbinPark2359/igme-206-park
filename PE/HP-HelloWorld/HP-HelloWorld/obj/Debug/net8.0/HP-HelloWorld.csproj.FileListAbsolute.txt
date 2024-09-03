@@ -1,0 +1,14 @@
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\bin\Debug\net8.0\HP-HelloWorld.exe
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\bin\Debug\net8.0\HP-HelloWorld.deps.json
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\bin\Debug\net8.0\HP-HelloWorld.runtimeconfig.json
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\bin\Debug\net8.0\HP-HelloWorld.dll
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\bin\Debug\net8.0\HP-HelloWorld.pdb
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\obj\Debug\net8.0\HP-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\obj\Debug\net8.0\HP-HelloWorld.AssemblyInfoInputs.cache
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\obj\Debug\net8.0\HP-HelloWorld.AssemblyInfo.cs
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\obj\Debug\net8.0\HP-HelloWorld.csproj.CoreCompileInputs.cache
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\obj\Debug\net8.0\HP-HelloWorld.dll
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\obj\Debug\net8.0\refint\HP-HelloWorld.dll
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\obj\Debug\net8.0\HP-HelloWorld.pdb
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\obj\Debug\net8.0\HP-HelloWorld.genruntimeconfig.cache
+D:\Profiles\hp2359\source\repos\HP-HelloWorld\HP-HelloWorld\obj\Debug\net8.0\ref\HP-HelloWorld.dll

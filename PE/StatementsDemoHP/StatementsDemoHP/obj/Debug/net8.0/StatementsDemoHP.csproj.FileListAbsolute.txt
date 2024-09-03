@@ -1,0 +1,14 @@
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\bin\Debug\net8.0\StatementsDemoHP.exe
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\bin\Debug\net8.0\StatementsDemoHP.deps.json
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\bin\Debug\net8.0\StatementsDemoHP.runtimeconfig.json
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\bin\Debug\net8.0\StatementsDemoHP.dll
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\bin\Debug\net8.0\StatementsDemoHP.pdb
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\obj\Debug\net8.0\StatementsDemoHP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\obj\Debug\net8.0\StatementsDemoHP.AssemblyInfoInputs.cache
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\obj\Debug\net8.0\StatementsDemoHP.AssemblyInfo.cs
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\obj\Debug\net8.0\StatementsDemoHP.csproj.CoreCompileInputs.cache
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\obj\Debug\net8.0\StatementsDemoHP.dll
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\obj\Debug\net8.0\refint\StatementsDemoHP.dll
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\obj\Debug\net8.0\StatementsDemoHP.pdb
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\obj\Debug\net8.0\StatementsDemoHP.genruntimeconfig.cache
+D:\Profiles\hp2359\source\repos\StatementsDemoHP\StatementsDemoHP\obj\Debug\net8.0\ref\StatementsDemoHP.dll
