@@ -1,0 +1,14 @@
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\bin\Debug\net8.0\PE_HelloWorld_HP.exe
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\bin\Debug\net8.0\PE_HelloWorld_HP.deps.json
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\bin\Debug\net8.0\PE_HelloWorld_HP.runtimeconfig.json
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\bin\Debug\net8.0\PE_HelloWorld_HP.dll
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\bin\Debug\net8.0\PE_HelloWorld_HP.pdb
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\obj\Debug\net8.0\PE_HelloWorld_HP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\obj\Debug\net8.0\PE_HelloWorld_HP.AssemblyInfoInputs.cache
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\obj\Debug\net8.0\PE_HelloWorld_HP.AssemblyInfo.cs
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\obj\Debug\net8.0\PE_HelloWorld_HP.csproj.CoreCompileInputs.cache
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\obj\Debug\net8.0\PE_HelloWorld_HP.dll
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\obj\Debug\net8.0\refint\PE_HelloWorld_HP.dll
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\obj\Debug\net8.0\PE_HelloWorld_HP.pdb
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\obj\Debug\net8.0\PE_HelloWorld_HP.genruntimeconfig.cache
+C:\Users\qkrgu\source\repos\PE_HelloWorld_HP\PE_HelloWorld_HP\obj\Debug\net8.0\ref\PE_HelloWorld_HP.dll

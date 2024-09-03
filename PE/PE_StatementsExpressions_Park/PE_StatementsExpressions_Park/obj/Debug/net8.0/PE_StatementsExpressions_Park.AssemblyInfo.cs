@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PE_StatementsExpressions_Park")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8620b9ce9689880f361d9f7b1b89c4c004985485")]
 [assembly: System.Reflection.AssemblyProductAttribute("PE_StatementsExpressions_Park")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PE_StatementsExpressions_Park")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

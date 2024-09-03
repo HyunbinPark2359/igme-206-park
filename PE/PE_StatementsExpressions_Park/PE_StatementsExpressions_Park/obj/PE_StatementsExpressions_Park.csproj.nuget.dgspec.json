@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Profiles\\hp2359\\source\\repos\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park.csproj": {}
+    "C:\\Users\\qkrgu\\Documents\\GitHub\\igme-206-park\\PE\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park.csproj": {}
   },
   "projects": {
-    "D:\\Profiles\\hp2359\\source\\repos\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park.csproj": {
+    "C:\\Users\\qkrgu\\Documents\\GitHub\\igme-206-park\\PE\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Profiles\\hp2359\\source\\repos\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park.csproj",
+        "projectUniqueName": "C:\\Users\\qkrgu\\Documents\\GitHub\\igme-206-park\\PE\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park.csproj",
         "projectName": "PE_StatementsExpressions_Park",
-        "projectPath": "D:\\Profiles\\hp2359\\source\\repos\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park.csproj",
-        "packagesPath": "D:\\Profiles\\hp2359\\.nuget\\packages\\",
-        "outputPath": "D:\\Profiles\\hp2359\\source\\repos\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park\\obj\\",
+        "projectPath": "C:\\Users\\qkrgu\\Documents\\GitHub\\igme-206-park\\PE\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park.csproj",
+        "packagesPath": "C:\\Users\\qkrgu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\qkrgu\\Documents\\GitHub\\igme-206-park\\PE\\PE_StatementsExpressions_Park\\PE_StatementsExpressions_Park\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "Z:\\IGMProfile\\AppData\\NuGet\\NuGet.Config",
+          "C:\\Users\\qkrgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
