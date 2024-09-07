@@ -1,0 +1,15 @@
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\obj\Debug\net8.0\PE-DataTypesVariables_Park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\obj\Debug\net8.0\PE-DataTypesVariables_Park.AssemblyInfoInputs.cache
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\obj\Debug\net8.0\PE-DataTypesVariables_Park.AssemblyInfo.cs
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\obj\Debug\net8.0\PE-DataTypesVariables_Park.csproj.CoreCompileInputs.cache
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\obj\Debug\net8.0\PE-DataTypesVariables_Park.sourcelink.json
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\bin\Debug\net8.0\PE-DataTypesVariables_Park.exe
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\bin\Debug\net8.0\PE-DataTypesVariables_Park.deps.json
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\bin\Debug\net8.0\PE-DataTypesVariables_Park.runtimeconfig.json
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\bin\Debug\net8.0\PE-DataTypesVariables_Park.dll
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\bin\Debug\net8.0\PE-DataTypesVariables_Park.pdb
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\obj\Debug\net8.0\PE-DataTypesVariables_Park.dll
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\obj\Debug\net8.0\refint\PE-DataTypesVariables_Park.dll
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\obj\Debug\net8.0\PE-DataTypesVariables_Park.pdb
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\obj\Debug\net8.0\PE-DataTypesVariables_Park.genruntimeconfig.cache
+C:\Users\qkrgu\Documents\GitHub\igme-206-park\PE\PE-DataTypesVariables_Park\PE-DataTypesVariables_Park\obj\Debug\net8.0\ref\PE-DataTypesVariables_Park.dll
