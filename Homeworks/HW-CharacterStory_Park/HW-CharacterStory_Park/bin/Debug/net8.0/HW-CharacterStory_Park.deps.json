@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HW-CharacterStory_Park/1.0.0": {
+        "runtime": {
+          "HW-CharacterStory_Park.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW-CharacterStory_Park/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
