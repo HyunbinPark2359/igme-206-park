@@ -1,0 +1,14 @@
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\bin\Debug\net8.0\PE-CastingMath&Documentation_Park.exe
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\bin\Debug\net8.0\PE-CastingMath&Documentation_Park.deps.json
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\bin\Debug\net8.0\PE-CastingMath&Documentation_Park.runtimeconfig.json
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\bin\Debug\net8.0\PE-CastingMath&Documentation_Park.dll
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\bin\Debug\net8.0\PE-CastingMath&Documentation_Park.pdb
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\obj\Debug\net8.0\PE-CastingMath&Documentation_Park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\obj\Debug\net8.0\PE-CastingMath&Documentation_Park.AssemblyInfoInputs.cache
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\obj\Debug\net8.0\PE-CastingMath&Documentation_Park.AssemblyInfo.cs
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\obj\Debug\net8.0\PE-CastingMath&Documentation_Park.csproj.CoreCompileInputs.cache
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\obj\Debug\net8.0\PE-CastingMath&Documentation_Park.dll
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\obj\Debug\net8.0\refint\PE-CastingMath&Documentation_Park.dll
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\obj\Debug\net8.0\PE-CastingMath&Documentation_Park.pdb
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\obj\Debug\net8.0\PE-CastingMath&Documentation_Park.genruntimeconfig.cache
+C:\Users\qkrgu\source\repos\PE-CastingMath&Documentation_Park\PE-CastingMath&Documentation_Park\obj\Debug\net8.0\ref\PE-CastingMath&Documentation_Park.dll
