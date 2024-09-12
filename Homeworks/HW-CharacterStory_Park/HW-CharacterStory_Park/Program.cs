@@ -107,7 +107,7 @@ namespace HW_CharacterStory_Park
             Console.WriteLine("Gogo successfully defeated evil dragon and restored the peace of the world.");
             Console.WriteLine();
 
-            // Final character stats
+            // Final character stats!
             Console.WriteLine("--- Final Stats of " + characterName + " ---");
             Console.WriteLine("Health: " + currentHealth + " / " + maxHealth);
             Console.WriteLine("Attack: " + currentAttack);

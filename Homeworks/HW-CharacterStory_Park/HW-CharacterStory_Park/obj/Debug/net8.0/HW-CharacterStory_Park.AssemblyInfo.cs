@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW-CharacterStory_Park")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90f21fd23c2e8b81b564e6f567dd614820d7deaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW-CharacterStory_Park")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW-CharacterStory_Park")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
