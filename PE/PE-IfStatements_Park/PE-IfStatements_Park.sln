@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE-IfStatements_Park", "PE-IfStatements_Park\PE-IfStatements_Park.csproj", "{E49A00B9-3CAD-4A4C-967E-1A65DCFEC97E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E49A00B9-3CAD-4A4C-967E-1A65DCFEC97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49A00B9-3CAD-4A4C-967E-1A65DCFEC97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49A00B9-3CAD-4A4C-967E-1A65DCFEC97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49A00B9-3CAD-4A4C-967E-1A65DCFEC97E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B2E6D17-D10B-49FC-A9CE-7D16A2EEA82B}
+	EndGlobalSection
+EndGlobal
