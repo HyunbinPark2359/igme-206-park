@@ -1,0 +1,14 @@
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\bin\Debug\net8.0\PE-IfsSwitches_Park.exe
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\bin\Debug\net8.0\PE-IfsSwitches_Park.deps.json
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\bin\Debug\net8.0\PE-IfsSwitches_Park.runtimeconfig.json
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\bin\Debug\net8.0\PE-IfsSwitches_Park.dll
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\bin\Debug\net8.0\PE-IfsSwitches_Park.pdb
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\obj\Debug\net8.0\PE-IfsSwitches_Park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\obj\Debug\net8.0\PE-IfsSwitches_Park.AssemblyInfoInputs.cache
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\obj\Debug\net8.0\PE-IfsSwitches_Park.AssemblyInfo.cs
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\obj\Debug\net8.0\PE-IfsSwitches_Park.csproj.CoreCompileInputs.cache
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\obj\Debug\net8.0\PE-IfsSwitches_Park.dll
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\obj\Debug\net8.0\refint\PE-IfsSwitches_Park.dll
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\obj\Debug\net8.0\PE-IfsSwitches_Park.pdb
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\obj\Debug\net8.0\PE-IfsSwitches_Park.genruntimeconfig.cache
+C:\Users\qkrgu\source\repos\PE-IfsSwitches_Park\PE-IfsSwitches_Park\obj\Debug\net8.0\ref\PE-IfsSwitches_Park.dll
