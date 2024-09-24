@@ -1,0 +1,14 @@
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\bin\Debug\net8.0\PE-StaticHelperMethods_Park.exe
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\bin\Debug\net8.0\PE-StaticHelperMethods_Park.deps.json
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\bin\Debug\net8.0\PE-StaticHelperMethods_Park.runtimeconfig.json
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\bin\Debug\net8.0\PE-StaticHelperMethods_Park.dll
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\bin\Debug\net8.0\PE-StaticHelperMethods_Park.pdb
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\obj\Debug\net8.0\PE-StaticHelperMethods_Park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\obj\Debug\net8.0\PE-StaticHelperMethods_Park.AssemblyInfoInputs.cache
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\obj\Debug\net8.0\PE-StaticHelperMethods_Park.AssemblyInfo.cs
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\obj\Debug\net8.0\PE-StaticHelperMethods_Park.csproj.CoreCompileInputs.cache
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\obj\Debug\net8.0\PE-StaticHelperMethods_Park.dll
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\obj\Debug\net8.0\refint\PE-StaticHelperMethods_Park.dll
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\obj\Debug\net8.0\PE-StaticHelperMethods_Park.pdb
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\obj\Debug\net8.0\PE-StaticHelperMethods_Park.genruntimeconfig.cache
+C:\Users\qkrgu\source\repos\PE-StaticHelperMethods_Park\PE-StaticHelperMethods_Park\obj\Debug\net8.0\ref\PE-StaticHelperMethods_Park.dll

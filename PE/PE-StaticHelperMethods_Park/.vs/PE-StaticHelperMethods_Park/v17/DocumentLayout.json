@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qkrgu\\source\\repos\\PE-StaticHelperMethods_Park\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01EA3FA9-9E0E-4048-A748-207E6AA582F2}|PE-StaticHelperMethods_Park\\PE-StaticHelperMethods_Park.csproj|c:\\users\\qkrgu\\source\\repos\\pe-statichelpermethods_park\\pe-statichelpermethods_park\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01EA3FA9-9E0E-4048-A748-207E6AA582F2}|PE-StaticHelperMethods_Park\\PE-StaticHelperMethods_Park.csproj|solutionrelative:pe-statichelpermethods_park\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\PE-StaticHelperMethods_Park\\PE-StaticHelperMethods_Park\\Program.cs",
+              "RelativeDocumentMoniker": "PE-StaticHelperMethods_Park\\Program.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\PE-StaticHelperMethods_Park\\PE-StaticHelperMethods_Park\\Program.cs",
+              "RelativeToolTip": "PE-StaticHelperMethods_Park\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:23:27.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
