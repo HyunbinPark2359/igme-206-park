@@ -1,0 +1,14 @@
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\bin\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.exe
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\bin\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.deps.json
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\bin\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.runtimeconfig.json
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\bin\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.dll
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\bin\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.pdb
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\obj\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\obj\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.AssemblyInfoInputs.cache
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\obj\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.AssemblyInfo.cs
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\obj\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.csproj.CoreCompileInputs.cache
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\obj\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.dll
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\obj\Debug\net8.0\refint\PE-ExceptionHandlingTryParse_Park.dll
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\obj\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.pdb
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\obj\Debug\net8.0\PE-ExceptionHandlingTryParse_Park.genruntimeconfig.cache
+C:\Users\qkrgu\source\repos\PE-ExceptionHandlingTryParse_Park\PE-ExceptionHandlingTryParse_Park\obj\Debug\net8.0\ref\PE-ExceptionHandlingTryParse_Park.dll
