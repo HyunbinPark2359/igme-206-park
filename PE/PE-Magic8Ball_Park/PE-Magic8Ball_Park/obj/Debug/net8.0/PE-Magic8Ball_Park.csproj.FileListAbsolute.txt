@@ -1,0 +1,14 @@
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\obj\Debug\net8.0\PE-Magic8Ball_Park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\obj\Debug\net8.0\PE-Magic8Ball_Park.AssemblyInfoInputs.cache
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\obj\Debug\net8.0\PE-Magic8Ball_Park.AssemblyInfo.cs
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\obj\Debug\net8.0\PE-Magic8Ball_Park.csproj.CoreCompileInputs.cache
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\bin\Debug\net8.0\PE-Magic8Ball_Park.exe
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\bin\Debug\net8.0\PE-Magic8Ball_Park.deps.json
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\bin\Debug\net8.0\PE-Magic8Ball_Park.runtimeconfig.json
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\bin\Debug\net8.0\PE-Magic8Ball_Park.dll
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\bin\Debug\net8.0\PE-Magic8Ball_Park.pdb
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\obj\Debug\net8.0\PE-Magic8Ball_Park.dll
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\obj\Debug\net8.0\refint\PE-Magic8Ball_Park.dll
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\obj\Debug\net8.0\PE-Magic8Ball_Park.pdb
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\obj\Debug\net8.0\PE-Magic8Ball_Park.genruntimeconfig.cache
+C:\Users\qkrgu\source\repos\PE-Magic8Ball_Park\PE-Magic8Ball_Park\obj\Debug\net8.0\ref\PE-Magic8Ball_Park.dll
