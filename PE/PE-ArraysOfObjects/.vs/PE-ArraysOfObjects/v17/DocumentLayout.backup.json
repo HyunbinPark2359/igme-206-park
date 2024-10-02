@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qkrgu\\source\\repos\\PE-ArraysOfObjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3CBE8-8B30-41EC-B668-CEF8D6D29041}|PE-ArraysOfObjects\\PE-ArraysOfObjects.csproj|c:\\users\\qkrgu\\source\\repos\\pe-arraysofobjects\\pe-arraysofobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3CBE8-8B30-41EC-B668-CEF8D6D29041}|PE-ArraysOfObjects\\PE-ArraysOfObjects.csproj|solutionrelative:pe-arraysofobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3CBE8-8B30-41EC-B668-CEF8D6D29041}|PE-ArraysOfObjects\\PE-ArraysOfObjects.csproj|c:\\users\\qkrgu\\source\\repos\\pe-arraysofobjects\\pe-arraysofobjects\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3CBE8-8B30-41EC-B668-CEF8D6D29041}|PE-ArraysOfObjects\\PE-ArraysOfObjects.csproj|solutionrelative:pe-arraysofobjects\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3CBE8-8B30-41EC-B668-CEF8D6D29041}|PE-ArraysOfObjects\\PE-ArraysOfObjects.csproj|c:\\users\\qkrgu\\source\\repos\\pe-arraysofobjects\\pe-arraysofobjects\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3CBE8-8B30-41EC-B668-CEF8D6D29041}|PE-ArraysOfObjects\\PE-ArraysOfObjects.csproj|solutionrelative:pe-arraysofobjects\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\PE-ArraysOfObjects\\PE-ArraysOfObjects\\Deck.cs",
+              "RelativeDocumentMoniker": "PE-ArraysOfObjects\\Deck.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\PE-ArraysOfObjects\\PE-ArraysOfObjects\\Deck.cs",
+              "RelativeToolTip": "PE-ArraysOfObjects\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:31:06.075Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\PE-ArraysOfObjects\\PE-ArraysOfObjects\\Card.cs",
+              "RelativeDocumentMoniker": "PE-ArraysOfObjects\\Card.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\PE-ArraysOfObjects\\PE-ArraysOfObjects\\Card.cs",
+              "RelativeToolTip": "PE-ArraysOfObjects\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:20:01.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\PE-ArraysOfObjects\\PE-ArraysOfObjects\\Program.cs",
+              "RelativeDocumentMoniker": "PE-ArraysOfObjects\\Program.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\PE-ArraysOfObjects\\PE-ArraysOfObjects\\Program.cs",
+              "RelativeToolTip": "PE-ArraysOfObjects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:19:48.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

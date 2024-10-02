@@ -1,0 +1,14 @@
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\bin\Debug\net8.0\PE-ArraysOfObjects.exe
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\bin\Debug\net8.0\PE-ArraysOfObjects.deps.json
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\bin\Debug\net8.0\PE-ArraysOfObjects.runtimeconfig.json
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\bin\Debug\net8.0\PE-ArraysOfObjects.dll
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\bin\Debug\net8.0\PE-ArraysOfObjects.pdb
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\obj\Debug\net8.0\PE-ArraysOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\obj\Debug\net8.0\PE-ArraysOfObjects.AssemblyInfoInputs.cache
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\obj\Debug\net8.0\PE-ArraysOfObjects.AssemblyInfo.cs
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\obj\Debug\net8.0\PE-ArraysOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\obj\Debug\net8.0\PE-ArraysOfObjects.dll
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\obj\Debug\net8.0\refint\PE-ArraysOfObjects.dll
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\obj\Debug\net8.0\PE-ArraysOfObjects.pdb
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\obj\Debug\net8.0\PE-ArraysOfObjects.genruntimeconfig.cache
+C:\Users\qkrgu\source\repos\PE-ArraysOfObjects\PE-ArraysOfObjects\obj\Debug\net8.0\ref\PE-ArraysOfObjects.dll
