@@ -1,0 +1,14 @@
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\bin\Debug\net8.0\PE-Properties_Park.exe
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\bin\Debug\net8.0\PE-Properties_Park.deps.json
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\bin\Debug\net8.0\PE-Properties_Park.runtimeconfig.json
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\bin\Debug\net8.0\PE-Properties_Park.dll
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\bin\Debug\net8.0\PE-Properties_Park.pdb
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\obj\Debug\net8.0\PE-Properties_Park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\obj\Debug\net8.0\PE-Properties_Park.AssemblyInfoInputs.cache
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\obj\Debug\net8.0\PE-Properties_Park.AssemblyInfo.cs
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\obj\Debug\net8.0\PE-Properties_Park.csproj.CoreCompileInputs.cache
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\obj\Debug\net8.0\PE-Properties_Park.dll
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\obj\Debug\net8.0\refint\PE-Properties_Park.dll
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\obj\Debug\net8.0\PE-Properties_Park.pdb
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\obj\Debug\net8.0\PE-Properties_Park.genruntimeconfig.cache
+C:\Users\qkrgu\source\repos\PE-Properties_Park\PE-Properties_Park\obj\Debug\net8.0\ref\PE-Properties_Park.dll
