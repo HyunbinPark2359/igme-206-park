@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|c:\\users\\qkrgu\\source\\repos\\pe-abstractionpolymorphism_park\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|c:\\users\\qkrgu\\source\\repos\\pe-abstractionpolymorphism_park\\shapes\\octagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|solutionrelative:shapes\\octagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|c:\\users\\qkrgu\\source\\repos\\pe-abstractionpolymorphism_park\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|solutionrelative:shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|c:\\users\\qkrgu\\source\\repos\\pe-abstractionpolymorphism_park\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|solutionrelative:shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|c:\\users\\qkrgu\\source\\repos\\pe-abstractionpolymorphism_park\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|c:\\users\\qkrgu\\source\\repos\\pe-abstractionpolymorphism_park\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54D8B08-8EEA-470C-9F7E-5C6E4511EA30}|Abstraction_Polymorphism_Demo.csproj|solutionrelative:shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "Shapes\\Shape.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Shapes\\Shape.cs",
+              "RelativeToolTip": "Shapes\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:19:55.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:19:55.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Shapes\\Square.cs",
+              "RelativeDocumentMoniker": "Shapes\\Square.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Shapes\\Square.cs",
+              "RelativeToolTip": "Shapes\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:19:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Triangle.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "Shapes\\Triangle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:22:20.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Octagon.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Shapes\\Octagon.cs",
+              "RelativeDocumentMoniker": "Shapes\\Octagon.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Shapes\\Octagon.cs",
+              "RelativeToolTip": "Shapes\\Octagon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:28:32.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\PE-AbstractionPolymorphism_Park\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwG4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:30:13.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
