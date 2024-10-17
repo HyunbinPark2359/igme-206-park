@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qkrgu\\source\\repos\\HW-TheFarmstead\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{817859EA-8978-4C0E-BA1E-E791D06EC93F}|HW-TheFarmstead\\HW-TheFarmstead.csproj|c:\\users\\qkrgu\\source\\repos\\hw-thefarmstead\\hw-thefarmstead\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817859EA-8978-4C0E-BA1E-E791D06EC93F}|HW-TheFarmstead\\HW-TheFarmstead.csproj|solutionrelative:hw-thefarmstead\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817859EA-8978-4C0E-BA1E-E791D06EC93F}|HW-TheFarmstead\\HW-TheFarmstead.csproj|c:\\users\\qkrgu\\source\\repos\\hw-thefarmstead\\hw-thefarmstead\\smartconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817859EA-8978-4C0E-BA1E-E791D06EC93F}|HW-TheFarmstead\\HW-TheFarmstead.csproj|solutionrelative:hw-thefarmstead\\smartconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817859EA-8978-4C0E-BA1E-E791D06EC93F}|HW-TheFarmstead\\HW-TheFarmstead.csproj|c:\\users\\qkrgu\\source\\repos\\hw-thefarmstead\\hw-thefarmstead\\crop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817859EA-8978-4C0E-BA1E-E791D06EC93F}|HW-TheFarmstead\\HW-TheFarmstead.csproj|solutionrelative:hw-thefarmstead\\crop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817859EA-8978-4C0E-BA1E-E791D06EC93F}|HW-TheFarmstead\\HW-TheFarmstead.csproj|c:\\users\\qkrgu\\source\\repos\\hw-thefarmstead\\hw-thefarmstead\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817859EA-8978-4C0E-BA1E-E791D06EC93F}|HW-TheFarmstead\\HW-TheFarmstead.csproj|solutionrelative:hw-thefarmstead\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartConsole.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\HW-TheFarmstead\\HW-TheFarmstead\\SmartConsole.cs",
+              "RelativeDocumentMoniker": "HW-TheFarmstead\\SmartConsole.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\HW-TheFarmstead\\HW-TheFarmstead\\SmartConsole.cs",
+              "RelativeToolTip": "HW-TheFarmstead\\SmartConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:52:35.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Farm.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\HW-TheFarmstead\\HW-TheFarmstead\\Farm.cs",
+              "RelativeDocumentMoniker": "HW-TheFarmstead\\Farm.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\HW-TheFarmstead\\HW-TheFarmstead\\Farm.cs",
+              "RelativeToolTip": "HW-TheFarmstead\\Farm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:23:32.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crop.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\HW-TheFarmstead\\HW-TheFarmstead\\Crop.cs",
+              "RelativeDocumentMoniker": "HW-TheFarmstead\\Crop.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\HW-TheFarmstead\\HW-TheFarmstead\\Crop.cs",
+              "RelativeToolTip": "HW-TheFarmstead\\Crop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:23:37.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qkrgu\\source\\repos\\HW-TheFarmstead\\HW-TheFarmstead\\Program.cs",
+              "RelativeDocumentMoniker": "HW-TheFarmstead\\Program.cs",
+              "ToolTip": "C:\\Users\\qkrgu\\source\\repos\\HW-TheFarmstead\\HW-TheFarmstead\\Program.cs",
+              "RelativeToolTip": "HW-TheFarmstead\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwFcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:23:21.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

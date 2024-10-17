@@ -1,0 +1,14 @@
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\bin\Debug\net8.0\HW-TheFarmstead.exe
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\bin\Debug\net8.0\HW-TheFarmstead.deps.json
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\bin\Debug\net8.0\HW-TheFarmstead.runtimeconfig.json
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\bin\Debug\net8.0\HW-TheFarmstead.dll
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\bin\Debug\net8.0\HW-TheFarmstead.pdb
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\obj\Debug\net8.0\HW-TheFarmstead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\obj\Debug\net8.0\HW-TheFarmstead.AssemblyInfoInputs.cache
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\obj\Debug\net8.0\HW-TheFarmstead.AssemblyInfo.cs
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\obj\Debug\net8.0\HW-TheFarmstead.csproj.CoreCompileInputs.cache
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\obj\Debug\net8.0\HW-TheFarmstead.dll
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\obj\Debug\net8.0\refint\HW-TheFarmstead.dll
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\obj\Debug\net8.0\HW-TheFarmstead.pdb
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\obj\Debug\net8.0\HW-TheFarmstead.genruntimeconfig.cache
+C:\Users\qkrgu\source\repos\HW-TheFarmstead\HW-TheFarmstead\obj\Debug\net8.0\ref\HW-TheFarmstead.dll
