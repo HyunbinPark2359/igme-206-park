@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QlFCGQTLtZs=",
+  "success": true,
+  "projectFilePath": "Z:\\IGMProfile\\Documents\\GitHub\\igme-206-park\\Exams\\GDAPS1_Practical2_HyunbinPark\\GDAPS1_Practical2.csproj",
+  "expectedPackageFiles": [
+    "D:\\Profiles\\hp2359\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "D:\\Profiles\\hp2359\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "D:\\Profiles\\hp2359\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "D:\\Profiles\\hp2359\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

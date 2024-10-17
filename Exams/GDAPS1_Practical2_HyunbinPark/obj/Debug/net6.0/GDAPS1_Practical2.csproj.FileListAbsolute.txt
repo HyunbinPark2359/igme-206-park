@@ -1,0 +1,15 @@
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\obj\Debug\net6.0\GDAPS1_Practical2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\obj\Debug\net6.0\GDAPS1_Practical2.AssemblyInfoInputs.cache
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\obj\Debug\net6.0\GDAPS1_Practical2.AssemblyInfo.cs
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\obj\Debug\net6.0\GDAPS1_Practical2.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\obj\Debug\net6.0\GDAPS1_Practical2.sourcelink.json
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\bin\Debug\net6.0\GDAPS1_Practical2.exe
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\bin\Debug\net6.0\GDAPS1_Practical2.deps.json
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\bin\Debug\net6.0\GDAPS1_Practical2.runtimeconfig.json
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\bin\Debug\net6.0\GDAPS1_Practical2.dll
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\bin\Debug\net6.0\GDAPS1_Practical2.pdb
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\obj\Debug\net6.0\GDAPS1_Practical2.dll
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\obj\Debug\net6.0\refint\GDAPS1_Practical2.dll
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\obj\Debug\net6.0\GDAPS1_Practical2.pdb
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\obj\Debug\net6.0\GDAPS1_Practical2.genruntimeconfig.cache
+Z:\IGMProfile\Documents\GitHub\igme-206-park\Exams\GDAPS1_Practical2_HyunbinPark\obj\Debug\net6.0\ref\GDAPS1_Practical2.dll
